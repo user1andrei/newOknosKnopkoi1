@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Большой Босс
+ * @author Большой Босс изменил репозиторий
  */
    public class eHandler extends okoshko implements ActionListener{
         public void actionPerformed(ActionEvent e){
