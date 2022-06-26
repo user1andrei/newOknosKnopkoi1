@@ -12,7 +12,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Большой Босс с новыми изменениями ветки Branch
+ * @author Большой Босс с новыми изменениями ветки Branch ехоо-еххоо
  */
 public class okoshko extends JFrame {
     
